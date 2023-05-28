@@ -1,1 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link rel="stylesheet" href="/css/site.css">
+    <link href='https://unpkg.com/css.gg@2.0.0/icons/css/facebook.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <title>HITEK</title>
+
+</head>
+<body>
+    <div class="container">
+        <div class="top">
+            <div class="logo">
+                <img src="/images/logo.png" alt="">
+            </div>
+            <div class="a">
+                <div class="a-1">
+                    <ul class="a-1-1">
+                        <b>
+                        <li>TIN TỨC</li>
+                        <li>ĐÁNH GIÁ</li>
+                        <li>CỘNG ĐỒNG</li>
+                        <li>COSPLAY</li>
+                        <li>GIFT CODE</li>
+                        <li>PHIM ẢNH</li>
+                        </b>
+                    </ul>
+                    <div class="a-1-2">
+                        Tìm kiếm...
+                    </div>
+                </div>
+                <div class="a-2">
+                    <ul class="a-2-1">
+                        <b>
+                        <li>GAME ONLINE</li>
+                        <li>PC/CONSOLE</li>
+                        <li>GAME MOBLIE</li>
+                        <li>ESPORTS</li>
+                        <li>CÔNG NGHỆ</li>
+                        </b>
+                    </ul>
+                    <div class="a-2-2">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="body-1">
+            <img width="100%" src="/images/banner-redmi-note7.png" alt="">
+        </div>
+        <div class="body-2">
+            <div class="content-left">
+                <img clas="img-1" style="width: 650px; height:auto; object-fit: fill" src="/images/msi-2019.jpg" alt="">
+                <div class="text text-1">
+                    <b>Danh sách những đội tuyển chính <br>
+                        thức góp mặt trong MSI 2019 tại <br>
+                        Việt Nam vào tháng tới
+                    </b>
+                </div>
+                <div class="text text-2">24 Tháng Tư, 2019</div>
+            </div>
+            <div class="content-right">
+                <div class="topp">
+                    <img style="width: 649px ; height:auto; object-fit: fill" src="/images/msi-2019-players.jpg" alt="">
+                    <div class="textt text-3">
+                        Danh sách các tuyển thủ góp mặt trong <br>
+                        vòng Play-In và vòng bảng tại MSI 2019
+                    </div>
+                </div>
+                <div class="bott">
+                    <div class="bott-1">
+                        <img style="width: 323px; height:auto; object-fit: fill" src="/images/levi-jdk.jpg" alt="">
+                        <div class="textt text-4">
+                            Xuất hiện lời nguyền mới giúp <br>
+                            Levi và JDG vô địch LPL trước <br>
+                            đương kim vô địch CKTG iG?
+                        </div>
+                    </div>
+                    <div class="bott-2">
+                        <img style="width: 323px; height:auto; object-fit: fill" src="/images/kieu-anh-hera.jpg" alt="">
+                        <div class="textt text-5">
+                            Bỏ lại quá khứ phía sau, Kiều <br>
+                            Anh Hera giờ đã chuyển qua <br>
+                            kinh doanh live game chỉ là thú <br>
+                            vui
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="body-3">
+            <div class="left">
+                <div class="news">TIN TỨC</div>
+                <div class="news-1">
+                    <div class="l-img"><img width="325px" src="/images/kaisa.jpg" alt=""></div>
+                    <div class="b">
+                        <div class="b-1">Kai'sa xinh đẹp và bí ẩn trong bộ ảnh cosplay</div>
+                        <div class="b-2">26 Tháng Tư, 2019</div>
+                        <div class="b-3">
+                            Trong LMHT, Kai'sa là một AD thiên hướng late game. Miễn bạn cho cô <br>
+                            nàng thời gian để có đủ những món đồ cần...
+                        </div>
+                    </div>
+                </div>
+                <div class="news-1">
+                    <div class="l-img"><img width="325px" src="/images/tamano.jpg" alt=""></div>
+                    <div class="b">
+                        <div class="b-1">
+                            Rạo rực với cosplay Tamamo no Mae trong <br>
+                            Fate/Grand Order.
+                        </div>
+                        <div class="b-2">26 Tháng Tư, 2019</div>
+                        <div class="b-3">
+                            Tamamo no Mae chính xác là một nhận vật trong thần thoại Nhật Bản, <br>
+                            thường xuất hiện trong những câu chuyện yêu quái với...
+                        </div>
+                    </div>
+                </div>
+                <div class="news-1">
+                    <div class="l-img"><img width="325px" src="/images/eos-archer.jpg" alt=""></div>
+                    <div class="b">
+                        <div class="b-1">
+                            Ngắm cosplay Archer siêu quyến rủ của <br>
+                            Tasha trong Echo of Soul
+                        </div>
+                        <div class="b-2">26 Tháng Tư, 2019</div>
+                        <div class="b-3">
+                            Ngoài ra, một đặc điểm rất đáng chú ý khác trong EoS chính là hệ thống <br>
+                            Soul System, nó cho phép người chơi sử...
+                        </div>
+                    </div>
+                </div>
+                <div class="news-1">
+                    <div class="l-img"><img width="325px" src="/images/beauty-cosplay.jpg" alt=""></div>
+                    <div class="b">
+                        <div class="b-1">
+                            Khởi đầu tuần mới với loạt ảnh cosplay xinh <br>
+                            đẹp</div>
+                        <div class="b-2">26 Tháng Tư 2019</div>
+                        <div class="b-3">
+                            Hôm nay là thứu hai đầu tuần, và là một ngày hết sức chán ngán với những <br>
+                            game thủ phải đi học, đi làm...
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="right">
+                <div class="new-post">BÀI VIẾT MỚI NHẤT</div>
+                <div class="c">
+                    PUBG sắp phát hành phiên bản cải TIẾN chất lượng <br>
+                    4K trên nền tảng PS5?
+                </div>
+                <div class="c">
+                    Vì sao thà Tencent phát triển game mới còn hơn ra <br>
+                    điện thoại chơi game của riêng mình? 
+                </div>
+                <div class="c">
+                    Bị Đại sứ quán Anh từ chối Visa, 2 tuyển PUBG Việt <br>
+                    Nam đắng lòng phỉa ngồi ở nhà xem giải qua TV
+                </div>
+                <div class="c">
+                    Apex Lengends: Lượng view stream trong tháng giảm <br>
+                    75%
+                </div>
+                <div class="c-c">
+                    Đánh giá World War Z: Bắn zombie số lượng siêu <br>
+                    nhiều như trong phim
+                </div>
+                <div class="r-img"><img width="330px" height="508px" src="/images/cuu-am-chan-kinh.png" alt=""></div>
+            </div>
+        </div>
+        <div class="more">Xem thêm</div>
+    </div>
+        <div class="footer">
+            <div class="abt-us">
+                <div class="a-u-1">VỀ CHÚNG TÔI</div>
+                <div class="a-u-2">
+                    HITEK công ti thiết kế website cao cấp được thành lập từ năm 2010. Ngay từ những ngày đầu <br>
+                    hoạt đông, chúng tôi đã xác định sự hài lòng của khách hàng là kim chỉ nam cho hành động của <br>
+                    chúng tôi.
+                </div>
+                <div class="a-u-3">Email liên hệ: infor@hitec.com</div>
+            </div>
+            <div class="social-network">
+                <div class="a-u-1">MẠNG XÃ HỘI</div>
+                <div class="icon"></div>
+            </div>
+        </div>
+        <div class="cpr">
+            <i class="fa-regular fa-copyright"></i>2022 All rights reserved
+        </div>
+    
+</body>
+</html>
